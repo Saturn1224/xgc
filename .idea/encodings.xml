@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/project/dao/ICompanyDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/project/dao/imp/BaseDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/project/dao/imp/CompanyDaoImpl.java" charset="GBK" />
+  </component>
+</project>
